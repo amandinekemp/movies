@@ -16,14 +16,16 @@ Une petite application Vue 3 qui permet d'ajouter, supprimer, trier et afficher 
 
 Assure-toi d'avoir [Node.js](https://nodejs.org/) installé (version 16 ou supérieure recommandée).
 
-```bash
 # 1. Cloner le projet
+```bash
 git clone https://github.com/amandinekemp/movies.git
 cd movies
+```
 
 # 2. Installer les dépendances
+```bash
 npm install
-````
+```
 
 ---
 
@@ -76,7 +78,7 @@ npm run preview
 
 ## 🖼️ Aperçu
 
-![Aperçu de l'application](src\main\ressources/movies_app.png)
+![Aperçu de l'application](src/main/ressources/movies_app.png)
 
 ---
 
