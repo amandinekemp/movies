@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Gestion de Films
 
 Une petite application Vue 3 qui permet d'ajouter, supprimer, trier et afficher une liste de films. Elle inclut également un compteur interactif.
@@ -10,19 +9,6 @@ Une petite application Vue 3 qui permet d'ajouter, supprimer, trier et afficher 
 - ✅ Suppression de films
 - ✅ Tri alphabétique des films
 - ✅ Utilisation de Vue 3 avec `<script setup>`
-
----
-
-## 📁 Structure des fichiers
-
-.
-├── index.html            # Page HTML principale
-├── package.json          # Dépendances et scripts npm
-├── vite.config.js        # Configuration de Vite
-├── src/
-│   └── main/
-│       └── main.js       # Point d’entrée de l'application
-│       └── App.vue       # Composant principal Vue
 
 ---
 
